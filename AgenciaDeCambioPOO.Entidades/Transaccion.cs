@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace AgenciaDeCambioPOO.Entidades
 {
-    abstract class Transaccion
+   public abstract class Transaccion
     {
         private DateTime _fecha;
         private decimal _total;
