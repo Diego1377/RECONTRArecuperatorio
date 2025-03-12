@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfMoneda xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Moneda xsi:type="Divisa">
+		<Nombre>Dólar Estadounidense</Nombre>
+		<Abreviatura>USD</Abreviatura>
+		<CotizacionCompra>950</CotizacionCompra>
+		<CotizacionVenta>970</CotizacionVenta>
+		<Cantidad>10000</Cantidad>
+	</Moneda>
+	<Moneda xsi:type="Divisa">
+		<Nombre>Euro</Nombre>
+		<Abreviatura>EUR</Abreviatura>
+		<CotizacionCompra>1030</CotizacionCompra>
+		<CotizacionVenta>1050</CotizacionVenta>
+		<Cantidad>8000</Cantidad>
+	</Moneda>
+	<Moneda xsi:type="Divisa">
+		<Nombre>Libra Esterlina</Nombre>
+		<Abreviatura>GBP</Abreviatura>
+		<CotizacionCompra>1200</CotizacionCompra>
+		<CotizacionVenta>1220</CotizacionVenta>
+		<Cantidad>5000</Cantidad>
+	</Moneda>
+	<Moneda xsi:type="Divisa">
+		<Nombre>Yen Japonés</Nombre>
+		<Abreviatura>JPY</Abreviatura>
+		<CotizacionCompra>6.5</CotizacionCompra>
+		<CotizacionVenta>7</CotizacionVenta>
+		<Cantidad>150000</Cantidad>
+	</Moneda>
+	<Moneda xsi:type="Divisa">
+		<Nombre>Franco Suizo</Nombre>
+		<Abreviatura>CHF</Abreviatura>
+		<CotizacionCompra>1080</CotizacionCompra>
+		<CotizacionVenta>1100</CotizacionVenta>
+		<Cantidad>4000</Cantidad>
+	</Moneda>
+	<Moneda xsi:type="Divisa">
+		<Nombre>Dólar Canadiense</Nombre>
+		<Abreviatura>CAD</Abreviatura>
+		<CotizacionCompra>720</CotizacionCompra>
+		<CotizacionVenta>740</CotizacionVenta>
+		<Cantidad>7000</Cantidad>
+	</Moneda>
+	<Moneda xsi:type="Divisa">
+		<Nombre>Dólar Australiano</Nombre>
+		<Abreviatura>AUD</Abreviatura>
+		<CotizacionCompra>680</CotizacionCompra>
+		<CotizacionVenta>700</CotizacionVenta>
+		<Cantidad>6000</Cantidad>
+	</Moneda>
+	<Moneda xsi:type="Divisa">
+		<Nombre>Yuan Chino</Nombre>
+		<Abreviatura>CNY</Abreviatura>
+		<CotizacionCompra>130</CotizacionCompra>
+		<CotizacionVenta>135</CotizacionVenta>
+		<Cantidad>50000</Cantidad>
+	</Moneda>
+	<Moneda xsi:type="Divisa">
+		<Nombre>Real Brasileño</Nombre>
+		<Abreviatura>BRL</Abreviatura>
+		<CotizacionCompra>170</CotizacionCompra>
+		<CotizacionVenta>180</CotizacionVenta>
+		<Cantidad>12000</Cantidad>
+	</Moneda>
+	<Moneda xsi:type="Divisa">
+		<Nombre>Peso Mexicano</Nombre>
+		<Abreviatura>MXN</Abreviatura>
+		<CotizacionCompra>50</CotizacionCompra>
+		<CotizacionVenta>55</CotizacionVenta>
+		<Cantidad>25000</Cantidad>
+	</Moneda>
+	<Moneda xsi:type="Divisa">
+		<Nombre>Rublo Ruso</Nombre>
+		<Abreviatura>RUB</Abreviatura>
+		<CotizacionCompra>12</CotizacionCompra>
+		<CotizacionVenta>15</CotizacionVenta>
+		<Cantidad>30000</Cantidad>
+	</Moneda>
+	<Moneda xsi:type="Divisa">
+		<Nombre>Rupia India</Nombre>
+		<Abreviatura>INR</Abreviatura>
+		<CotizacionCompra>11</CotizacionCompra>
+		<CotizacionVenta>13</CotizacionVenta>
+		<Cantidad>40000</Cantidad>
+	</Moneda>
+	<Moneda xsi:type="Divisa">
+		<Nombre>Won Surcoreano</Nombre>
+		<Abreviatura>KRW</Abreviatura>
+		<CotizacionCompra>0.75</CotizacionCompra>
+		<CotizacionVenta>1</CotizacionVenta>
+		<Cantidad>100000</Cantidad>
+	</Moneda>
+	<Moneda xsi:type="Divisa">
+		<Nombre>Dólar Neozelandés</Nombre>
+		<Abreviatura>NZD</Abreviatura>
+		<CotizacionCompra>620</CotizacionCompra>
+		<CotizacionVenta>640</CotizacionVenta>
+		<Cantidad>5500</Cantidad>
+	</Moneda>
+	<Moneda xsi:type="PesoArgentino">
+		<Nombre>Peso Argentino</Nombre>
+		<Abreviatura>ARS</Abreviatura>
+		<Cantidad>5000000</Cantidad>
+	</Moneda>
+</ArrayOfMoneda>
